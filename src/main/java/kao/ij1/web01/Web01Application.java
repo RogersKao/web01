@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Web01Application {
 
     public static void main(String[] args) {
-        System.out.println("===001===Web01Application.java===main=== " );
+        System.out.println("===001===Web01Application.java===main===save to github " );
         SpringApplication.run(Web01Application.class, args);
     }
 

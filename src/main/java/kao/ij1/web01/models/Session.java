@@ -28,7 +28,7 @@ public class Session {
     }
 
     public List<Speaker> getSpeakers() {
-        System.out.println("===071===Session.java===List<Speaker> getSpeakers()==== " );
+        System.out.println("===071===Session.java===List<Speaker> getSpeakers()====save " );
         return speakers;
     }
 
